@@ -1,6 +1,5 @@
 import model.Flat;
 import model.Person;
-
 ///// пример прописка.......
 public class Main {
     public static void main(String[] args) {
