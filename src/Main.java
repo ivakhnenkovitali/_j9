@@ -7,7 +7,6 @@ public class Main {
 
 //пример -- агрегация не жостракая связь между объектами
         ///объект квартира относится к двум людям
-
         Person person1 = new Person("Мisha", flat1);
         Person person2 = new Person("Masha", flat1);
 
