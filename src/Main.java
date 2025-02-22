@@ -8,7 +8,6 @@ public class Main {
         ///объект квартира относится к двум людям
         Person person1 = new Person("Мisha", flat1);
         Person person2 = new Person("Masha", flat1);
-
         System.out.println(person1);
         System.out.println(person2);
         person1 = null;
