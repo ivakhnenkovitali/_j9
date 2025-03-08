@@ -1,6 +1,6 @@
 import model.Flat;
 import model.Person;
-/// пример прописка.......
+/// пример прописка.....
 public class Main {
     public static void main(String[] args) {
         Flat flat1 = new Flat("sovetskaya 1");
