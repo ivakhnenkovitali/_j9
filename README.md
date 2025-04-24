@@ -1,3 +1,10 @@
+
+Этот проект "Прописка" демонстрирует работу с объектно-ориентированным программированием (ООП) на C++ и моделирует систему учета жильцов в квартирах.
+______________________________________________________________________________________________________________
+Dieses Projekt "Wohnungsanmeldung" (Meldewesen) demonstriert die Arbeit mit objektorientierter Programmierung (OOP) in C++ und simuliert ein System zur Erfassung von Bewohnern in Wohnungen.
+_______________________________________________________________________________________________________________
+This project "Propiska" (Residence Registration) demonstrates object-oriented programming (OOP) in C++ and models a system for tracking tenants in apartments.
+___________________________________________________________________________________________________________
 ______________________________________________________________________________
 
 Dev-C++ использу устаревший компилятор (обычно MinGW GCC 4.9.2 или подобный), который может не поддерживать некоторые современные возможности C++11/C++14.
