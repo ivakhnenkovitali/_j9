@@ -1,0 +1,1 @@
+![проект на C++ моделирует систему прописки жильцов по адресу  начало](https://github.com/user-attachments/assets/babab19a-e138-4173-a16e-f0cb78b4cc8d)
