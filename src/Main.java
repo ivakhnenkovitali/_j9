@@ -4,7 +4,6 @@ import model.Person;
 public class Main {
     public static void main(String[] args) {
         Flat flat1 = new Flat("sovetskaya 1");
-
 //пример -- агрегация не жостракая связь между объектами
         ///объект квартира относится к двум людям
         Person person1 = new Person("Мisha", flat1);
